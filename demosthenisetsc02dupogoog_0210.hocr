@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demosthenisetsc02dupogoog_0210.png"; bbox 0 0 2984 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 208 309 1313 586">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 208 309 1313 554">
+     <span class='ocr_line' id='line_1_1' title="bbox 208 309 958 378; baseline -0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 208 309 266 378; x_wconf 74' lang='lat' dir='ltr'><strong>odi</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 539 309 701 372; x_wconf 70' lang='lat' dir='ltr'><strong>Rsslsxu</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 722 309 958 370; x_wconf 71' lang='lat' dir='ltr'><strong>Pumno</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 211 463 1313 586; baseline 0.005 -58"><span class='ocrx_word' id='word_1_4' title='bbox 211 485 288 541; x_wconf 76' lang='lat' dir='ltr'><strong>nm,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 306 465 406 528; x_wconf 67' lang='lat' dir='ltr'><strong>stetim</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 418 464 615 545; x_wconf 70' lang='lat' dir='ltr'><strong>subjicienda,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 630 483 710 526; x_wconf 71' lang='lat' dir='ltr'><strong>ame</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 730 476 860 548; x_wconf 67' lang='lat' dir='ltr'><strong>rogatus,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 879 465 962 548; x_wconf 74' lang='lat' dir='ltr'><strong>ligno</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 982 463 1096 586; x_wconf 52' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1135 465 1220 532; x_wconf 63' lang='lat' dir='ltr'><strong>nn·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1206 477 1313 554; x_wconf 65' lang='lat' dir='ltr'><strong>mque</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 212 555 854 642">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 212 555 854 642">
+     <span class='ocr_line' id='line_1_3' title="bbox 212 555 854 642; baseline -0.002 -19"><span class='ocrx_word' id='word_1_13' title='bbox 212 557 378 642; x_wconf 69' lang='lat' dir='ltr'>Delphinus</span> <span class='ocrx_word' id='word_1_14' title='bbox 391 557 507 622; x_wconf 67' lang='lat' dir='ltr'><strong>Aldine</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 521 555 686 622; x_wconf 70' lang='lat' dir='ltr'>remotione</span> <span class='ocrx_word' id='word_1_16' title='bbox 700 557 794 622; x_wconf 74' lang='lat' dir='ltr'><strong>hic.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 850 587 854 592; x_wconf 84' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1496 4917">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1496 4917">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1496 4917; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1496 4917; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
